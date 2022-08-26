@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "twbs/bootstrap": "5.0.2"
+    }
+}

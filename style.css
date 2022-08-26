@@ -1,0 +1,45 @@
+/* Chat.php */
+#pcsz{
+    background-image: url(https://wallpaperaccess.com/full/2112.jpg);
+        background-size: 100vh 100vw;
+        color: white;
+}
+.noo{
+    color: white;
+}
+
+
+/* header.php */
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+main {
+    background-image: url(https://wallpaperaccess.com/full/2112.jpg);
+    background-size: 100vh 100vw;
+    
+}
+
+@media (min-width: 992px) {
+    .rounded-lg-3 {
+        border-radius: .3rem;
+    }
+}
+
+/* Account.php */
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Open+Sans&display=swap');
+    
+
+    .headings img {
+        width: 8em;
+        height: 8em;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
