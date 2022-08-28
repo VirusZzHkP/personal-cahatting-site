@@ -1,7 +1,9 @@
 Personal Chatting Room
 <p>Created a personal chatting room / one-too-one chatting room, here anyone registered can chat with their friends registered on the site.</p>
 <div>
-<img src="https://pcrhkp.000webhostapp.com/fontend/img/icon.png" style="align-items:center">
+<img src="https://pcrhkp.000webhostapp.com/fontend/img/icon.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;">
 </div>
 <H3> For detailed knowledge visit my blog page:<br> </H3>
 <a href="https://viruszzwarning.medium.com/"><li>VirusZzWarning</a>
