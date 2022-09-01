@@ -1,8 +1,13 @@
 <h2 style="text-align:center;">Personal Chatting Room</h2>
 <p>Created a personal chatting room / one-too-one chatting room, here anyone registered can chat with their friends registered on the site.</p>
 <a href="https://pcrhkp.000webhostapp.com/" alt="Link to personal chatting site"> Register/Login  </a>
+<a href="https://pcrhkp.000webhostapp.com/" alt="Link to personal chatting site"> Register/Login  </a>
 <div>
 <img src="https://pcrhkp.000webhostapp.com/fontend/img/icon.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;">
+</div>
+<img src="https://cdn-images-1.medium.com/max/1000/1*Ia0UTp1eoNXkHigFismTYw.gif" style="display: block;
   margin-left: auto;
   margin-right: auto;">
 </div>
