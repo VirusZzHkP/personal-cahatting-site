@@ -1,4 +1,10 @@
 <h2 style="text-align:center;">Personal Chatting Room</h2>
+
+![GitHub language count](https://img.shields.io/github/languages/count/VirusZzHkP/personal-cahatting-site?style=social)  [![GitHub stars](https://img.shields.io/github/stars/VirusZzHkP/personal-cahatting-site)](https://github.com/VirusZzHkP/personal-cahatting-site/stargazers)
+
+![GitHub contributors](https://img.shields.io/github/contributors/VirusZzHkP/personal-cahatting-site?color=yellow)      [![GitHub license](https://img.shields.io/github/license/VirusZzHkP/personal-cahatting-site)](https://github.com/VirusZzHkP/personal-cahatting-site/blob/main/LICENSE)
+
+
 <p>Created a personal chatting room / one-too-one chatting room, here anyone registered can chat with their friends registered on the site.</p>
 <a href="https://pcrhkp.000webhostapp.com/" alt="Link to personal chatting site"> Register/Login  </a><br>
 <a href="https://viruszzwarning.medium.com/created-a-personal-chatting-site-2f3449f94a86" alt="Link to blog"> Read more here  </a>
